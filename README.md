@@ -70,6 +70,9 @@ The names of the authors should be included in the submission.
 If a work is accepted, at least one author must register for the conference and attend in person. For registration policy and registration fee information, visit the [registration page](https://neurips.cc/Register/view-registration).  
 The location of the conference is San Diego. Authors are responsible for travel arrangements and expenses. If you need a visa, please refer to the [visa information page](https://neurips.cc/Conferences/2025/Visa). The conference does not provide travel funding and we are working out ways to support artists and exhibitors through other forms of sponsorship.
 
+## Previous versions
+
+See https://neurips-creative-ai.github.io/ for a list of previous versions.
 
 ## Contact
 
