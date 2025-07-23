@@ -1,5 +1,9 @@
 # NeurIPS 2025 Creative AI Track
 
+Wed Dec 3, 2025  –  Fri Dec 5, 2025 (Conference Sessions of [NeurIPS 2025 Meeting Dates](https://neurips.cc/Conferences/2025/Dates))
+
+San Diego, USA
+
 <img src="./assets/CreativeAi.png" alt="header image" style="margin-left: auto; margin-right: auto; width: 100%;">
 Credit: Rhythm Bots (2024) by Naomi Ehrich Leonard et al., image courtesy of creativeX.
 <br /> <br /> 
