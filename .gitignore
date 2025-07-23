@@ -1,0 +1,21 @@
+# === Jekyll build artifacts ===
+_site/
+.jekyll-cache/
+
+# === Bundler ===
+/vendor/
+.bundle/
+Gemfile.lock
+
+# === rbenv ===
+.ruby-version
+.rbenv-version
+
+# === macOS system files ===
+.DS_Store
+
+# === Logs and temp files ===
+*.log
+*.tmp
+*.swp
+*.swo
