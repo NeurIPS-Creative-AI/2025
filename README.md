@@ -38,7 +38,7 @@ The [submission portal](https://openreview.net/group?id=NeurIPS.cc/2025/Creative
 
 ### Papers
 
-We invite submissions for research papers that propose original ideas or novel uses of AI and ML for creativity. The topics of research papers are not restricted to the theme of Humanity. Please note that this year the Creative AI track will be part of the NeurIPS conference proceedings and papers will be presented as posters during the conference.
+We invite submissions for research papers that propose original ideas or novel uses of AI and ML for creativity. The topics of research papers are not restricted to the theme of Humanity. Please note that this year the Creative AI track will be part of the NeurIPS conference proceedings and papers will be presented as posters during the conference. From our perspective, submissions are acceptable as long as the work submitted to the Creative AI track is substantially different from any concurrent submissions, if any. In practice, we have found that papers tailored specifically for the Creative AI track, 2 to 6 pages in length, tend to differ enough in focus and format to be considered substantially different.
 
 #### _To submit:_
 Papers should be 2–6 pages long without references. Use the [template](https://media.neurips.cc/Conferences/NeurIPS2025/Styles.zip) for your submission.
