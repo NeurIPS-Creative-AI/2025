@@ -26,7 +26,7 @@ Submissions are **not** exclusively limited to the themes above, and we are open
 ## Important Dates:
 
 - June 30: Submission Portal Opens  
-- August 2 (Anywhere on Earth): Submission Deadline  
+- ~~August 2~~ August 9 (Anywhere on Earth): Submission Deadline
 - September 18: Decision  
 - October 23: Final Camera‑Ready Submission  
 
